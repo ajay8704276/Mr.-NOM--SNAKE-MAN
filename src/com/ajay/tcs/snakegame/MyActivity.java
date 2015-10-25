@@ -12,5 +12,6 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         System.out.print("AJay");
+        System.out.print("AJay");
     }
 }
