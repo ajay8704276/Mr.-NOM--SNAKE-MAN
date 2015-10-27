@@ -96,7 +96,7 @@ public class AndroidInput implements Input {
      * @return list of key events occurred
      */
     @Override
-    public List<android.view.KeyEvent> getKeyEvents() {
+    public List<KeyEvent> getKeyEvents() {
         return keyHandler.getKeyEvents();
     }
 

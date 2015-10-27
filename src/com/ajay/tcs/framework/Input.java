@@ -86,7 +86,7 @@ public interface Input {
      *
      * @return list of key events occurred
      */
-    public List<android.view.KeyEvent> getKeyEvents();
+    public List<KeyEvent> getKeyEvents();
 
     /**
      * list of touch events occurred
